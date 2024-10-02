@@ -1,0 +1,7 @@
+id,name,Strength,Dexterity,Constitution,Barbarian,Bard,Cleric,Druid,Fighter,Monk,Paladin,Ranger,Rogue,Sorcerer,Warlock,Wizard
+1,Andy,10,10,10,false,false,false,true,false,false,false,false,false,false,false,false
+2,Bob,10,10,10,false,false,false,false,false,true,false,false,false,false,false,false
+3,Marty,12,18,10,true,false,false,false,true,false,false,false,false,false,false,false
+4,Rosie,17,15,10,false,false,false,false,false,true,false,false,false,false,false,false
+5,Spellerina,23,13,10,false,true,false,false,false,false,false,false,false,true,true,true
+6,Fray,25,24,10,false,false,true,false,false,false,true,false,false,false,false,false
